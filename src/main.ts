@@ -1,3 +1,3 @@
-export function log(value: unknown) {
-  console.log("Console: ", value);
+export function log(value: unknown){
+  console.log('Logged console value: ', value)
 }
