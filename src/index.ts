@@ -1,3 +1,3 @@
 export const test = "hello";
 
-const productIds = [1, 2, 3];
+export const productIds = [1, 2, 3].forEach(p => console.log(p));
