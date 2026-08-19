@@ -1,3 +1,3 @@
 export function log(value: unknown){
-  console.log('Logged value: ', value)
+  console.log('Logged console value: ', value)
 }
