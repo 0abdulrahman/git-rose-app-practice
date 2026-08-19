@@ -13,6 +13,12 @@ const users = [
     age:    13,
     gender: 'female'
   },
+  {
+    id:     3,
+    name:   'Khaled',
+    age:    23,
+    gender: 'male'
+  }
 ]
 
 export default function Example() {
