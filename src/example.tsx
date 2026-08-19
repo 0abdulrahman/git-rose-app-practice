@@ -14,9 +14,9 @@ const users = [
     gender: 'female'
   },
   {
-    id:     33,
+    id:     3,
     name:   'Khaled',
-    age:    23,
+    age:    20,
     gender: 'male'
   }
 ]
